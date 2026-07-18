@@ -43,4 +43,4 @@ The output includes:
 *   Mean Squared Error and R-squared score, indicating the model's accuracy.
 *   A prediction for a $50 bill amount.
 ```
-"""
+
