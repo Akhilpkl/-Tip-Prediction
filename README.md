@@ -36,5 +36,8 @@ The output includes:
 *   Predicted tip amounts for the test set.
 *   Mean Squared Error and R-squared score, indicating the model's accuracy.
 *   A prediction for a $50 bill amount.
+ 
+```
+[12.56037474]
 ```
 
