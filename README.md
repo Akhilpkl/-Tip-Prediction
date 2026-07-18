@@ -3,7 +3,7 @@
 ##### Linear Regression Model for Tip Prediction
 
 ##### Project Description
-This notebook demonstrates a simple linear regression model to predict tip amounts based on the total bill. The goal is to analyze the relationship between the observed total bill and the observed tip amount, build a predictive model, and evaluate its performance.
+This demonstrates a simple linear regression model to predict tip amounts based on the total bill. The goal is to analyze the relationship between the observed total bill and the observed tip amount, build a predictive model, and evaluate its performance.
 
 ##### Setup and Installation
 To run this notebook, you need to have the following Python libraries installed. You can install them using pip:
